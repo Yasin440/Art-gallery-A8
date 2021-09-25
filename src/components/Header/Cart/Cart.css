@@ -1,0 +1,35 @@
+.cartTitle{
+    text-align: center;
+}
+.cartTitle h2{
+    margin-top:0;
+}
+.cartCalItem{
+    display: grid;
+    grid-template-columns: 6fr 4fr;
+}
+.cartCalItem p{
+    margin: 0;
+    font-weight: 500;
+}
+.cart button{
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    padding: .4rem 1.5rem;
+    background-color: goldenrod;
+    border: none;
+    border-radius: 5px;
+    transition: .6s all;
+    margin: 2rem auto 0 auto;
+}
+.cart button:hover{
+    background-color: rgba(5, 136, 5, 0.918);
+    color: white;
+}
+.cart button span{
+    font-weight: 600;
+}
+.cart .artList hr{
+    margin: 6px;
+}

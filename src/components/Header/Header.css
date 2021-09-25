@@ -1,0 +1,10 @@
+.header{
+    background-color: #abffffe3;
+    padding: 8px 0;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 9px;
+}
+.header h2{
+    margin: 0;
+}

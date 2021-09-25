@@ -1,0 +1,21 @@
+.art .card .card-body span{
+    color: rgb(126 125 125);
+}
+.art .card-footer button{
+    margin: auto;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    padding: .4rem 1.5rem;
+    background-color: goldenrod;
+    border: none;
+    border-radius: 5px;
+    transition: .6s all;
+}
+.art .card-footer button:hover{
+    background-color: rgba(5, 136, 5, 0.918);
+    color: white;
+}
+.art .card-footer button span{
+    font-weight: 600;
+}

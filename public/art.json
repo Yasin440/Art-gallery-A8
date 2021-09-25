@@ -1,0 +1,183 @@
+[
+    {
+        "_id": "614f57d6a48a76ec0162fa9b",
+        "picture": "http://lh6.ggpht.com/HlgucZ0ylJAfZgusynnUwxNIgIp5htNhShF559x3dRXiuy_UdP3UQVLYW6c=w454-h300-n-l64",
+        "artName": "The Starry Night",
+        "artist": "Vincent van Gogh",
+        "year": 1803,
+        "price": "616.16",
+        "Medium": "oil on canvas",
+        "email": "esteshuber@ovolo.com"
+    },
+    {
+        "_id": "614f57d6416a4a02dc3505cd",
+        "picture": "http://lh5.ggpht.com/xlxixMkpWMSDC0NtVgN57ajjKg63WKeHdo6D4-dEuyS5MjfSWMb0JggH6ks=w454-h300-n-l64",
+        "artName": "The Potato Eaters",
+        "artist": "Vincent van Gogh",
+        "year": 1809,
+        "price": "554.93",
+        "Medium": "oil on canvas",
+        "email": "macdonalddyer@ovolo.com"
+    },
+    {
+        "_id": "614f57d6ec577f3f27663c10",
+        "picture": "http://lh4.ggpht.com/-pHGt320hO0K5OIfpubiAXj7aySEdZWqRBh3bJZGAr87gJ3rpXMi-0UJgvTi=w454-h300-n-l64",
+        "artName": "Starry Night Over the Rhône",
+        "artist": "Vincent van Gogh",
+        "year": 1813,
+        "price": "797.14",
+        "Medium": "oil on canvas",
+        "email": "tysonpuckett@ovolo.com"
+    },
+    {
+        "_id": "614f57d6ff8c80ce60ea89bf",
+        "picture": "http://lh4.ggpht.com/_phU8pfj0VHhTmawsNt-NqZJcPQk5RE9WCAleheuo5HD-rNebECUe2wJldoE=w454-h300-n-l64",
+        "artName": "Almond Blossoms",
+        "artist": "Vincent van Gogh",
+        "year": 1855,
+        "price": "823.77",
+        "Medium": "oil on canvas",
+        "email": "lawandaoneal@ovolo.com"
+    },
+    {
+        "_id": "614f57d6c625ba46bf4b0645",
+        "picture": "http://lh5.ggpht.com/sGFNYnsvcc0L5hH_h3bcFo7pcQSqsYRZninoM_YpT_zudbjOVQAxeA0DZgM=w454-h250-n-l64",
+        "artName": "Wheatfield with Crows",
+        "artist": "Vincent van Gogh",
+        "year": 1845,
+        "price": "706.62",
+        "Medium": "oil on canvas",
+        "email": "sampsoncallahan@ovolo.com"
+    },
+    {
+        "_id": "614f57d6599c8a9fcdd03176",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Monet_-_Impression%2C_Sunrise.jpg/220px-Monet_-_Impression%2C_Sunrise.jpg",
+        "artName": "Trujillo Serrano",
+        "artist": "Shauna Buckner}",
+        "year": 1848,
+        "price": "737.94",
+        "Medium": "oil on canvas",
+        "email": "shaunabuckner@ovolo.com"
+    },
+    {
+        "_id": "614f57d6757edf395eeda0dd",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Jungle_Arc.jpg/220px-Jungle_Arc.jpg",
+        "artName": "Tiffany Thornton",
+        "artist": "Barnett Wooten}",
+        "year": 1840,
+        "price": "925.54",
+        "Medium": "oil on canvas",
+        "email": "barnettwooten@ovolo.com"
+    },
+    {
+        "_id": "614f57d61cd06ee7f42f785c",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Honor%C3%A9_Daumier_008.jpg/220px-Honor%C3%A9_Daumier_008.jpg",
+        "artName": "Burns Howard",
+        "artist": "Henrietta Pearson}",
+        "year": 1880,
+        "price": "641.20",
+        "Medium": "oil on canvas",
+        "email": "henriettapearson@ovolo.com"
+    },
+    {
+        "_id": "614f57d6c54510f444388794",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Lascaux_04.jpg/220px-Lascaux_04.jpg",
+        "artName": "The Church at Auvers",
+        "artist": "Vincent van Gogh",
+        "year": 1844,
+        "price": "799.95",
+        "Medium": "oil on canvas",
+        "email": "jannagreen@ovolo.com"
+    },
+    {
+        "_id": "614f57d6794cc358fbf202ec",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Lubang_Jeriji_Sal%C3%A9h_cave_painting_of_Bull.jpg/220px-Lubang_Jeriji_Sal%C3%A9h_cave_painting_of_Bull.jpg",
+        "artName": "figurative painting",
+        "artist": "Lubang Jeriji Saléh",
+        "year": 1785,
+        "price": "500.11",
+        "Medium": "oil on canvas",
+        "email": "brooksdavid@ovolo.com"
+    },
+    {
+        "_id": "614f57d6327a0a98459a7765",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Georges_Seurat_066.jpg/220px-Georges_Seurat_066.jpg",
+        "artName": "Georges Seurat",
+        "artist": "Georges Seurat",
+        "year": 1785,
+        "price": "688.58",
+        "Medium": "oil on canvas",
+        "email": "haleydorsey@ovolo.com"
+    },
+    {
+        "_id": "614f57d6f2edcf2a573b4090",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Landscapes_of_the_Four_Seasons.jpg/220px-Landscapes_of_the_Four_Seasons.jpg",
+        "artName": "Sheryl Valentine",
+        "artist": "Dillon Miller}",
+        "year": 1755,
+        "price": "883.38",
+        "Medium": "oil on canvas",
+        "email": "dillonmiller@ovolo.com"
+    },
+    {
+        "_id": "614f57d69f0397d266c1e062",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Piet_Mondriaan%2C_1921_-_Composition_en_rouge%2C_jaune%2C_bleu_et_noir.jpg/220px-Piet_Mondriaan%2C_1921_-_Composition_en_rouge%2C_jaune%2C_bleu_et_noir.jpg",
+        "artName": "Composition en rouge",
+        "artist": "Piet Mondrian",
+        "year": 1842,
+        "price": "997.49",
+        "Medium": "oil on canvas",
+        "email": "herrerabaldwin@ovolo.com"
+    },
+    {
+        "_id": "614f57d68ad252cf5c7be71e",
+        "picture": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Jean_Metzinger%2C_1906%2C_La_dance_%28Bacchante%29%2C_oil_on_canvas%2C_73_x_54_cm_DSC05359...jpg/220px-Jean_Metzinger%2C_1906%2C_La_dance_%28Bacchante%29%2C_oil_on_canvas%2C_73_x_54_cm_DSC05359...jpg",
+        "artName": "La danse",
+        "artist": "Jean Metzinger",
+        "year": 1835,
+        "price": "563.71",
+        "Medium": "oil on canvas",
+        "email": "dorothybattle@ovolo.com"
+    },
+    {
+        "_id": "614f57d64f0804c2b61f5ac7",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/220px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+        "artName": "Mona Lisa",
+        "artist": "Leonardo da Vinci",
+        "year": 1758,
+        "price": "658.48",
+        "Medium": "oil on canvas",
+        "email": "mullenowens@ovolo.com"
+    },
+    {
+        "_id": "614f57d6821fbf769766be0e",
+        "picture": "http://lh3.googleusercontent.com/dfmlCJPho4ID3a-9bfUfl-3XIJPtefRB_Uttc3YMbltt4JV7af-ouqPIfRPrTJTyZQ=w233-h300-n-l64",
+        "artName": "Prehistoric",
+        "artist": "aurochs",
+        "year": 1861,
+        "price": "694.36",
+        "Medium": "oil on canvas",
+        "email": "kendranash@ovolo.com"
+    },
+    {
+        "_id": "614f57d6b9aa051c63006c52",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Formella_18%2C_apelle_o_la_pittura%2C_nino_pisano%2C_1334-1336_dettaglio_01.JPG/220px-Formella_18%2C_apelle_o_la_pittura%2C_nino_pisano%2C_1334-1336_dettaglio_01.JPG",
+        "artName": "Nino Pisano",
+        "artist": "Giotto's Bell",
+        "year": 1894,
+        "price": "516.72",
+        "Medium": "oil on canvas",
+        "email": "lilliemayo@ovolo.com"
+    },
+    {
+        "_id": "614f57d6530dd068f833e4ca",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Louis15-1.jpg/220px-Louis15-1.jpg",
+        "artName": "Janette Combs",
+        "artist": "Lynne Cote",
+        "year": 1869,
+        "price": "511.36",
+        "Medium": "oil on canvas",
+        "email": "lynnecote@ovolo.com"
+    }
+    
+]

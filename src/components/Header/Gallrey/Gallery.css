@@ -1,0 +1,19 @@
+.gallery{
+    display: grid;
+    grid-template-columns: 7fr 2fr;
+    width: 95%;
+    margin: auto;
+    margin-top: 2rem;
+}
+.gallery .arts{
+    padding-right: 10px;
+}
+div .cartWizard{
+    padding-left: 10px;
+}
+.cartHolder{
+    background-color: rgb(238 238 238 / 83%);
+    padding: 30px 10px;
+    border-radius: 3px;
+    box-shadow: 3px 6px 11px grey;
+}
