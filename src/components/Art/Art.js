@@ -1,9 +1,11 @@
 import React from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faCartPlus } from '@fortawesome/free-solid-svg-icons';
 import './Art.css'
 
 const Art = (props) => {
     //distructure of art array
-    const { picture, artName, artist, year, price, email, Medium} = props.art;
+    const { picture, artName, artist, year, price, email, Medium } = props.art;
     return (
         <div className="art col">
             <div className="card h-100">
@@ -21,7 +23,7 @@ const Art = (props) => {
                         onClick={() => props.addToCartHandle(props.art)}
                     >
                         <span>
-                            <i className="fas fa-cart-plus"></i> Select For Gallery
+                            <FontAwesomeIcon icon={faCartPlus} /> Select For Gallery
                         </span>
                     </button>
                 </div>
