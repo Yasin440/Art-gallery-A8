@@ -1,9 +1,10 @@
 import React, { useEffect, useState } from 'react';
-import Art from '../Art/Art'
+import Art from '../Art/Art';
 import Cart from '../Cart/Cart';
 import './Gallery.css'
 
 const Gallery = () => {
+
     // useState for data count
     const [arts, setArts] = useState([]);
 

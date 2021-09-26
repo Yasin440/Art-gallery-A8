@@ -1,6 +1,9 @@
 .art .card .card-body span{
     color: rgb(126 125 125);
 }
+.art .card-footer{
+    background-color: #abffffe3;
+}
 .art .card-footer button{
     margin: auto;
     cursor: pointer;

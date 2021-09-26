@@ -5,8 +5,8 @@ const Header = () => {
     return (
         <div>
             <div className="header">
-                <h2>Art Gallery</h2>
-                <h5>Total Budget: 200 Million [$]</h5>
+                <h1><span>Art Gallery</span></h1>
+                <h5>Total Budget: 12 Million [$]</h5>
             </div>
         </div>
     );

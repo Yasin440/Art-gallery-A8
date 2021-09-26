@@ -1,6 +1,6 @@
 import './App.css';
-import Gallery from './components/Header/Gallrey/Gallery';
-import Header from './components/Header/Header';
+import Gallery from './components/Gallrey/Gallery';
+import Header from './components/Header/Header'
 
 function App() {
   return (
